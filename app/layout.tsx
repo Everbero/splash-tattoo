@@ -2,6 +2,7 @@ import { Marvel } from "next/font/google"; // Importando a fonte do Google
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 // Carregar a fonte Marvel do Google
 const marvelFont = Marvel({
@@ -25,6 +26,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR" data-theme="dark">
+      <GoogleAnalytics gaId="G-L2022SCY42" />
       <body className={`${marvelFont.variable} antialiased`}>
         {/* Seção Header */}
         <header>

@@ -141,6 +141,13 @@
   resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.2.11.tgz"
   integrity sha512-DYYZcO4Uir2gZxA4D2JcOAKVs8ZxbOFYPpXSVIgeoQbREbeEHxysVsg3nY4FrQy51e5opxt5mOHl/LzIyZBoKA==
 
+"@next/third-parties@^14.2.11":
+  version "14.2.11"
+  resolved "https://registry.npmjs.org/@next/third-parties/-/third-parties-14.2.11.tgz"
+  integrity sha512-KpTrJg05vyi+0NxjuQT9CR4lsiVTciLSupMosR/BtSHek5bqHWP3KvHfFEsOcxBeOZLNhSmBUhkYclQ4eUVu9Q==
+  dependencies:
+    third-party-capital "1.0.20"
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
@@ -1897,7 +1904,7 @@ next-sitemap@^4.2.3:
     fast-glob "^3.2.12"
     minimist "^1.2.8"
 
-next@*, next@14.2.11:
+next@*, "next@^13.0.0 || ^14.0.0", next@14.2.11:
   version "14.2.11"
   resolved "https://registry.npmjs.org/next/-/next-14.2.11.tgz"
   integrity sha512-8MDFqHBhdmR2wdfaWc8+lW3A/hppFe1ggQ9vgIu/g2/2QEMYJrPoQP6b+VNk56gIug/bStysAmrpUKtj3XN8Bw==
@@ -2622,6 +2629,11 @@ thenify-all@^1.0.0:
   integrity sha512-RVZSIV5IG10Hk3enotrhvz0T9em6cyHBLkH/YAZuKqd8hRkKhSfCGIcP2KUY0EPxndzANBmNllzWPwak+bheSw==
   dependencies:
     any-promise "^1.0.0"
+
+third-party-capital@1.0.20:
+  version "1.0.20"
+  resolved "https://registry.npmjs.org/third-party-capital/-/third-party-capital-1.0.20.tgz"
+  integrity sha512-oB7yIimd8SuGptespDAZnNkzIz+NWaJCu2RMsbs4Wmp9zSDUM8Nhi3s2OOcqYuv3mN4hitXc8DVx+LyUmbUDiA==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
