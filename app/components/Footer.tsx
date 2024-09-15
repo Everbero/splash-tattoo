@@ -1,5 +1,4 @@
 import React from "react";
-import { FaInstagram, FaFacebookF, FaEnvelope } from "react-icons/fa";
 import WhatsBtn from "./WhatsBtn";
 import { SocialIcon } from "react-social-icons";
 

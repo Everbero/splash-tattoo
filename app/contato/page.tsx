@@ -1,6 +1,5 @@
 import React from "react";
 import Head from "next/head";
-import { FaInstagram, FaFacebookF } from "react-icons/fa"; // Ícones do React
 
 export default function ContactPage() {
   return (

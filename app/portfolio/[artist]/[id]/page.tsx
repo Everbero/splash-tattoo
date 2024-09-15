@@ -1,3 +1,4 @@
+import Image from "next/image";
 import data from "../../../lib/db.json"; // Ajuste o caminho para o arquivo JSON
 
 // Função para gerar metadados SEO dinamicamente
@@ -43,7 +44,7 @@ export default function PortfolioItemPage({
         <div className="flex flex-col items-center text-center">
           <h1 className="text-5xl font-bold text-red-600">{item.title}</h1>
           <p className="mt-4 text-lg">{item.description}</p>
-          <img
+          <Image
             src={item.image}
             alt={item.title}
             className="rounded-lg my-10"
