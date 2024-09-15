@@ -7,4 +7,3 @@ Host: https://www.splashtattoo.com.br
 
 # Sitemaps
 Sitemap: https://www.splashtattoo.com.br/sitemap.xml
-Sitemap: https://www.splashtattoo.com.br/sitemap-portfolio.xml
