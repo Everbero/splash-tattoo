@@ -1,0 +1,304 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Águia",
+      "description": "Tatuagem de águia feita por Breno Parisi, detalhada com estilo realista.",
+      "image": "/images/portfolio/breno/aguia1.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Realismo",
+      "metaTitle": "Águia - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem de águia feita por Breno Parisi, um exemplo impressionante de tatuagem realista oferecida no estúdio Splash Tattoo."
+    },
+    {
+      "id": 2,
+      "title": "Camaleão",
+      "description": "Tatuagem de camaleão com cores vibrantes, feita em estilo neo-tradicional.",
+      "image": "/images/portfolio/breno/camaleao.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Neo-tradicional",
+      "metaTitle": "Camaleão - Tatuagem Neo-tradicional por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Explore a tatuagem de camaleão vibrante em estilo neo-tradicional, feita por Breno Parisi, disponível no estúdio Splash Tattoo."
+    },
+    {
+      "id": 3,
+      "title": "Carpa",
+      "description": "Tatuagem de carpa oriental, com foco em detalhes fluidos e simbologia cultural.",
+      "image": "/images/portfolio/breno/carpa.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Oriental",
+      "metaTitle": "Carpa - Tatuagem Oriental por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem de carpa oriental, com detalhes refinados e simbologia, feita por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 4,
+      "title": "Caveira",
+      "description": "Tatuagem de caveira feita por Breno Parisi, com sombreamento realista.",
+      "image": "/images/portfolio/breno/caveira.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Realismo",
+      "metaTitle": "Caveira - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Descubra a tatuagem de caveira com sombreamento realista feita por Breno Parisi, uma das especialidades do estúdio Splash Tattoo."
+    },
+    {
+      "id": 5,
+      "title": "Cobertura de Tatuagem",
+      "description": "Cobertura de tatuagem antiga, transformada com estilo moderno.",
+      "image": "/images/portfolio/breno/cobertura1.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Cobertura",
+      "metaTitle": "Cobertura de Tatuagem por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja como tatuagens antigas são transformadas com técnicas modernas por Breno Parisi, no Splash Tattoo."
+    },
+    {
+      "id": 6,
+      "title": "Flores Femininas na Perna",
+      "description": "Tatuagem de flores femininas na perna, com detalhes delicados e cores suaves.",
+      "image": "/images/portfolio/breno/flores-feminia-perna.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Floral",
+      "metaTitle": "Flores Femininas - Tatuagem Floral por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a delicada tatuagem de flores femininas na perna, feita por Breno Parisi no Splash Tattoo, com detalhes suaves e cores refinadas."
+    },
+    {
+      "id": 7,
+      "title": "Flores Femininas",
+      "description": "Design floral feminino, perfeito para tatuagens delicadas.",
+      "image": "/images/portfolio/breno/flores-feminia.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Floral",
+      "metaTitle": "Flores Femininas - Tatuagem Floral por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Design floral feminino com detalhes refinados, feito por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 8,
+      "title": "Flores Femininas",
+      "description": "Outro design de flores femininas com sombras suaves e detalhes realistas.",
+      "image": "/images/portfolio/breno/flores-feminina.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Floral",
+      "metaTitle": "Flores Femininas - Tatuagem Floral por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Outro design de flores femininas com sombras suaves, por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 9,
+      "title": "Girassol",
+      "description": "Tatuagem de girassol com cores vibrantes e sombreamento suave.",
+      "image": "/images/portfolio/breno/girassol.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Floral",
+      "metaTitle": "Girassol - Tatuagem Floral por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja o girassol vibrante com sombreamento suave, tatuado por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 10,
+      "title": "Gueixa Oriental Realista",
+      "description": "Tatuagem de gueixa em estilo oriental realista, com ricos detalhes culturais.",
+      "image": "/images/portfolio/breno/gueixa-oriental-realismo.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Oriental",
+      "metaTitle": "Gueixa Oriental - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Explore a tatuagem de gueixa oriental realista, com detalhes impressionantes, feita por Breno Parisi."
+    },
+    {
+      "id": 11,
+      "title": "Gueixa Oriental",
+      "description": "Outro design de gueixa com sombreamento suave e traços marcantes.",
+      "image": "/images/portfolio/breno/gueixa-oriental.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Oriental",
+      "metaTitle": "Gueixa Oriental - Tatuagem por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja o design de gueixa oriental com traços suaves e marcantes, feito por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 12,
+      "title": "Impressionismo",
+      "description": "Tatuagem estilo impressionista com cores suaves e transições delicadas.",
+      "image": "/images/portfolio/breno/impressionismo.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Impressionismo",
+      "metaTitle": "Impressionismo - Tatuagem Estilo Impressionista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja o estilo impressionista delicado de tatuagem feito por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 13,
+      "title": "Indiana",
+      "description": "Tatuagem inspirada em arte indiana, com detalhes simbólicos e profundos.",
+      "image": "/images/portfolio/breno/indiana.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Cultural",
+      "metaTitle": "Indiana - Tatuagem Inspirada na Arte Indiana por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem inspirada na arte indiana, feita por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 14,
+      "title": "Leão da Fé",
+      "description": "Tatuagem de leão com detalhes em sombreamento, representando força e fé.",
+      "image": "/images/portfolio/breno/leao-da-fé.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Realismo",
+      "metaTitle": "Leão da Fé - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja o leão realista simbolizando força e fé, tatuado por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 15,
+      "title": "Plantas",
+      "description": "Design de plantas com linhas finas e detalhadas, ideal para tatuagens minimalistas.",
+      "image": "/images/portfolio/breno/plantas.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Minimalismo",
+      "metaTitle": "Plantas - Tatuagem Minimalista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja o design minimalista de plantas com linhas finas, tatuado por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 16,
+      "title": "Pós-Moderno",
+      "description": "Tatuagem de estilo pós-moderno com traços abstratos e cores ousadas.",
+      "image": "/images/portfolio/breno/pos-moderno.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Pós-Moderno",
+      "metaTitle": "Pós-Moderno - Tatuagem Abstrata por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Explore o estilo pós-moderno com traços abstratos e ousados, tatuado por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 17,
+      "title": "Realismo - Mão",
+      "description": "Tatuagem realista de uma mão, destacando o uso de sombras e proporções detalhadas.",
+      "image": "/images/portfolio/breno/realismo-mao.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Realismo",
+      "metaTitle": "Realismo Mão - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem realista de uma mão com sombras detalhadas, feita por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 18,
+      "title": "Realismo - Coruja",
+      "description": "Tatuagem de coruja em estilo realista, com foco nos detalhes das penas.",
+      "image": "/images/portfolio/breno/realismo-coruja.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Realismo",
+      "metaTitle": "Realismo Coruja - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem realista de coruja, com impressionante atenção aos detalhes, feita por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 19,
+      "title": "Realismo",
+      "description": "Tatuagem realista, com uso impressionante de sombreamento e detalhes.",
+      "image": "/images/portfolio/breno/realismo.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Realismo",
+      "metaTitle": "Realismo - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem realista impressionante com sombreamento detalhado, feita por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 20,
+      "title": "Samurai Guerreiro Oriental",
+      "description": "Tatuagem de samurai oriental, misturando elementos de realismo e traços culturais.",
+      "image": "/images/portfolio/breno/samurai-guerreiro-oriental.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Oriental",
+      "metaTitle": "Samurai Guerreiro Oriental - Tatuagem Realista por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem de samurai guerreiro oriental com ricos detalhes, feita por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 21,
+      "title": "Samurai Oriental",
+      "description": "Outro design de samurai com sombreamento e detalhes de batalha.",
+      "image": "/images/portfolio/breno/samurai-oriental.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Oriental",
+      "metaTitle": "Samurai Oriental - Tatuagem por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Explore o design de samurai oriental com detalhes de batalha, feito por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 22,
+      "title": "Tatuagem Simétrica",
+      "description": "Tatuagem simétrica, perfeita para aqueles que buscam equilíbrio e harmonia nos detalhes.",
+      "image": "/images/portfolio/breno/tatuagem-simetrica.jpeg",
+      "artist": "Breno Parisi",
+      "style": "Geometria",
+      "metaTitle": "Tatuagem Simétrica - Tatuagem Geométrica por Breno Parisi | Splash Tattoo",
+      "metaDescription": "Veja a tatuagem simétrica com harmonia de formas, feita por Breno Parisi no Splash Tattoo."
+    },
+    {
+      "id": 23,
+      "title": "Piercing de Orelha com Joias Brilhantes",
+      "description": "Piercing elegante em orelha com uma fileira de joias brilhantes.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.45.jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing de Orelha com Joias Brilhantes por Lima | Splash Tattoo",
+      "metaDescription": "Veja o elegante piercing de orelha com joias brilhantes, realizado pelo body piercer Lima no Splash Tattoo."
+    },
+    {
+      "id": 24,
+      "title": "Piercing com Joias Douradas e Design de Lua",
+      "description": "Piercing em orelha adornado com joias douradas e uma charmosa lua no centro.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.45 (1).jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing com Joias Douradas e Design de Lua por Lima | Splash Tattoo",
+      "metaDescription": "Confira o impressionante piercing de orelha com joias douradas e design de lua, realizado por Lima no Splash Tattoo."
+    },
+    {
+      "id": 25,
+      "title": "Piercing Minimalista em Orelha",
+      "description": "Piercing discreto e elegante com esferas metálicas na cartilagem da orelha.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.46.jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing Minimalista em Orelha por Lima | Splash Tattoo",
+      "metaDescription": "Explore o piercing minimalista na cartilagem da orelha, projetado pelo talentoso body piercer Lima no Splash Tattoo."
+    },
+    {
+      "id": 26,
+      "title": "Piercing de Orelha com Detalhes Dourados",
+      "description": "Piercing em orelha com joias douradas e um design único e delicado.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.46 (1).jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing de Orelha com Detalhes Dourados por Lima | Splash Tattoo",
+      "metaDescription": "Veja o piercing de orelha com joias douradas e detalhes únicos, realizado por Lima no Splash Tattoo."
+    },
+    {
+      "id": 27,
+      "title": "Piercing de Nariz e Lábio",
+      "description": "Piercing com esferas metálicas prateadas no nariz e lábio inferior.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.46 (2).jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing de Nariz e Lábio por Lima | Splash Tattoo",
+      "metaDescription": "Explore o piercing de nariz e lábio com esferas metálicas, realizado pelo body piercer Lima no Splash Tattoo."
+    },
+    {
+      "id": 28,
+      "title": "Piercing Industrial em Orelha",
+      "description": "Piercing industrial com dois aros de metal prateados na orelha.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.46 (3).jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing Industrial em Orelha por Lima | Splash Tattoo",
+      "metaDescription": "Veja o piercing industrial de orelha com aros de metal prateados, realizado por Lima no Splash Tattoo."
+    },
+    {
+      "id": 29,
+      "title": "Piercing de Orelha com Aro Brilhante",
+      "description": "Piercing de orelha com aro brilhante prateado, delicado e sofisticado.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.47.jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing de Orelha com Aro Brilhante por Lima | Splash Tattoo",
+      "metaDescription": "Confira o piercing de orelha com aro prateado brilhante, realizado pelo body piercer Lima no Splash Tattoo."
+    },
+    {
+      "id": 30,
+      "title": "Piercing de Umbigo com Cristal",
+      "description": "Piercing no umbigo adornado com um cristal brilhante.",
+      "image": "/images/portfolio/lima/WhatsApp Image 2024-09-15 at 11.17.49.jpeg",
+      "artist": "Lima",
+      "style": "Piercing",
+      "metaTitle": "Piercing de Umbigo com Cristal por Lima | Splash Tattoo",
+      "metaDescription": "Veja o piercing de umbigo adornado com um cristal brilhante, realizado por Lima no Splash Tattoo."
+    }
+  ]
+}

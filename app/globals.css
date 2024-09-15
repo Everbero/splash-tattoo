@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Customização adicional com Tailwind */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Fundo para o body */
+main {
+  background-image: url('/images/bkg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Fixa a imagem enquanto o conteúdo rola */
+  background-position: center center;
+}
+
+/* Fundo para o header */
+header {
+  background-image: url('/images/splash_up.jpg');
+  background-size: cover;
+  background-position: bottom center;
+  background-repeat: repeat-x;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white; /* Ajuste a cor do texto para contraste com o fundo */
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    background-size: auto;
+  }
+  
+}
